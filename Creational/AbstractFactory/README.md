@@ -78,3 +78,10 @@ $divice_ui_handler = match ($divice) {
 // چاپ خروجی (در اینجا هدر و فوتر به صورت HTML نمایش داده می‌شن)
 echo "{$divice_ui_handler->create_header()} and {$divice_ui_handler->create_footer()} ";
 ?>
+
+```
+
+---
+## ✍️ نویسنده
+
+Ali Beiki - [GitHub](https://github.com/Ali-Beiki)
