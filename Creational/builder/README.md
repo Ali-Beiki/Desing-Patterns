@@ -77,5 +77,7 @@
 این باعث خطا، کد ناخوانا و وابستگی زیاد میشه.
 
 ---
+## ✍️ نویسنده
 
+Ali Beiki - [GitHub](https://github.com/Ali-Beiki)
 
